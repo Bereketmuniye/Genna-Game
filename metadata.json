@@ -1,0 +1,7 @@
+{
+  "name": "Genna Gift Quest",
+  "description": "An elegant and challenging gift discovery game for the holiday of Genna, featuring AI-generated riddles and a professional gift-matching experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
